@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+C:\Users\Bruno\eclipse-workspace-curso\.metadata\.plugins\org.eclipse.jdt.core
+3510846143.index
+3022215643.index
+1104827218.index
+4291674327.index
+1621984754.index
+3777655462.index
+1865797976.index
